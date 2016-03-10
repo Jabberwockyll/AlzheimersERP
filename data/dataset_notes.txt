@@ -1,0 +1,7 @@
+Dataset Notes:
+
+
+full_data:  Complete dataset.  Includes button press-related features and number of missing features for each sample.  
+
+mean_channel_data_with_button: Consists of means over each recording channel/EEG node. Includes button press-related features and  
+        number of missing features.  Means were taken BEFORE standardization.  TODO: take mean after standardization
